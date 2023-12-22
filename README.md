@@ -1,4 +1,4 @@
-### Oi eu sou o Ítallo! 😄
+### Oi, eu sou o Ítallo! 😄
 
 ##
 
