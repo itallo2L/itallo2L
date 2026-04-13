@@ -1,6 +1,6 @@
 ### Oi, eu sou o Ítallo! 😄
 
-Atualmente estou Técnico de desenvolvimento na **InventSoftware** e estudante de **Sistemas de informação** na **UniFasam**.
+Atualmente atuo como Analista II de Desenvolvimento de Software na **InventSoftware**.
 
 ##
 
