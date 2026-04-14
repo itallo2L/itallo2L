@@ -1,10 +1,10 @@
-### Oi, eu sou o Ítallo! 😄
+### Hi, I'm Ítallo 👋
 
-Atualmente atuo como Analista II de Desenvolvimento de Software na **InventSoftware**.
+.NET Developer focused on building scalable APIs and integrations.
 
 ##
 
-Tenho conhecimentos em:
+Technologies:
 <div style="display: inline_block"><br>
   <img align="center" alt="JS-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -15,7 +15,7 @@ Tenho conhecimentos em:
   
   ##
 
-  Contatos:
+  Contact:
 <div> 
   <a href = "mailto:itallocerqueiracosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/itallo-cerqueira-costa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
